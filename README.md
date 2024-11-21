@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suriya M.
 - 👀 I’m interested in new technologies and passionate to me.
 - 🌱 I’m currently learning Programming Languages and Frameworks.
-- 💞️ I’m looking to collaborate on new learners seeking for help.
+- 💞️ I’m looking to collaborate open source events and projects.
 - 📫 How to reach me "Linked in"- linkedin.com/in/suriya-m-63a946210, "Mail Id"- suriyamurugan157@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Learning Day by Day.
